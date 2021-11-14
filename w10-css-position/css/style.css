@@ -1,0 +1,59 @@
+html{
+  height: 100%;
+}
+body,p,h3{
+  /* background-color: yellow; */
+  margin:0;
+}
+
+
+.description{
+  background-color: pink;
+}
+
+.title{
+  /* background-color: green; */
+}
+
+.box{
+  background-color: gray;
+
+  width: 200px;
+  height: 200px;
+  border-width: 5px;
+  /* border-top: 5px; */
+  border-color: red;
+  border-style:dotted;
+}
+
+.special-box{
+  background-color: gray;
+
+  position: fixed;
+  left: 200px;
+  top: 10%;
+
+  width: 200px;
+  height: 200px;
+  border-width: 5px;
+  /* border-top: 5px; */
+  border-color: red;
+  border-style:dotted;
+
+  margin: 50px;
+  padding: 20px;
+}
+
+.hidden-box{
+  background-color: yellow;
+
+  /* visibility: hidden; */
+  display: none;/*completely gone*/
+
+  width: 200px;
+  height: 200px;
+  border-width: 5px;
+  /* border-top: 5px; */
+  border-color: red;
+  border-style:dotted;
+}

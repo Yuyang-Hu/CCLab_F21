@@ -1,0 +1,13 @@
+p{
+  font-family: fantasy;
+}
+
+body{
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.link-style{
+  color: pink;
+  font-size: 30px;
+}

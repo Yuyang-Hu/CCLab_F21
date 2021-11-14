@@ -1,0 +1,24 @@
+h3{
+  color: gold;
+  font-size: 30px;
+  font-family: inherit;
+}
+
+ul{
+  color: violet;
+  font-family: cursive;
+  font-size: 50px;
+}
+
+/* class */
+.my-title{
+  color: pink;
+  font-size: 50px;
+  font-family: fantasy;
+}
+
+/* id */
+/* comment is control+slide */
+#very-special-sentense{
+  background-color: yellow;
+}

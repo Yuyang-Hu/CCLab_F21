@@ -1,0 +1,30 @@
+h1{
+  font-style: italic;
+  font-weight: 400;
+  font-family: 'Fruktur', cursive;
+  font-size: 50px;
+}
+
+
+
+p{
+  font-style: 12px;
+} */
+
+
+
+#g{
+  color: red;
+}
+
+#s{
+  color: green;
+}
+
+#r{
+  color: blue;
+}
+
+#h{
+  color: gold;
+}
